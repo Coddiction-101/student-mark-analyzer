@@ -26,7 +26,7 @@ JavaScript (Vanilla)
 ## 🤝 Contributing
 
 Pull requests are welcome!
-If you find issues, open the Issues tab.
+If you find issues, you can just open the Issues tab.
 
 📄 License
 
