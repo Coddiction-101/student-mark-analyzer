@@ -9,11 +9,8 @@ Built using HTML, CSS, and JavaScript — beginner-friendly and great for learni
 
 <img width="883" height="640" alt="Screenshot 2025-11-19 203333" src="https://github.com/user-attachments/assets/4e7fb5ba-ee90-4fb3-8dbb-518c084ec950" />
 
- <p align="center">
-  <a href="https://your-netlify-link.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Project-Live-blue?style=for-the-badge&logo=netlify" />
-  </a>
-</p>
+ [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge)](https://student-mark-analyzer-v1.netlify.app/)
+
 
 
 
