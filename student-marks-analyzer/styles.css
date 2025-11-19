@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    padding: 24px;
+    background-color: #302f2f;
+    color: #fff;
+
+}
+
+.container {
+    max-width: 720px;
+    background-color: #fff;
+    color: #000;
+    padding: 20px 24px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 6px 25px rgb(68, 68, 68);
+}
+
+h2 {
+    margin: 0 0 12px 0;
+    font-size: 22px;
+    font-family: 'Syne';
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: "Poppins";
+    text-align: center;
+}
+
+.input-section {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 14px;
+    gap: 8px;
+    font-family: 'poppins';
+}
+
+.input-section input {
+    padding: 8px 10px;
+    font-family: 15px;
+    width: 110px;
+}
+
+button {
+    padding: 8px 10px;
+    border: 1px solid #d0de60;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 6px;
+    font-family: 'poppins';
+}
+
+button:hover {
+    transform: translateY(-1px);
+    background-color: ghostwhite;
+}
+
+button.muted {
+    background: #f2f4f8;
+}
+
+.msg {
+    width: 100%;
+    margin-top: 6px;
+    color: #b43b3b;
+    font-size: 13px;
+}
+
+.marksList {
+    min-height: 80px;
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px dashed #afa7a7;
+    background: #e8dcd3;
+}
+
+.mark-item {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: center;
+    padding: 6px 8px;
+    border-radius: 6px;
+    margin-bottom: 6px;
+    background: #ffffff;
+    border: 1px solid #eef2fb;
+}
+
+.mark-item .actions button {
+    margin-left: 6px;
+}
+
+.note {
+    margin-top: 12px;
+    font-size: 14px;
+    color: #444;
+    font-family: 'poppins';
+}
+
+.empty {
+    font-family: 'poppins';
+    font-size: 13px;
+}

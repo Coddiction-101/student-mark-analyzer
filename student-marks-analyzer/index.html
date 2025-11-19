@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&family=Syne:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="styles.css" />
+    <title>Student Mark Analyzer</title>
+  </head>
+  <body>
+    <main class="container">
+      <h1>Student Marks Analyzer</h1>
+      <!-- Input Section -->
+      <section class="input-section">
+        <label for="marksInput">Input marks(0-100):</label>
+        <input
+          type="number"
+          id="marksInput"
+          min="0"
+          max="100"
+          placeholder="ex. 74"
+        />
+        <button id="addBtn">Add</button>
+        <button id="clearAllBtn">Clear</button>
+        <p id="msg" class="msg"></p>
+      </section>
+
+      <!-- List Section -->
+      <section class="list-section">
+        <h2>marks list</h2>
+        <div class="marksList" id="marksList"></div>
+      </section>
+
+      <section class="note">
+        <strong>Step 1:</strong> Add marks above and delete individual entries
+        as needed.
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
