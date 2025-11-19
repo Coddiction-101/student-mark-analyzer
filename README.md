@@ -19,14 +19,14 @@ Built using HTML, CSS, and JavaScript — beginner-friendly and great for learni
 - ⚡ Real-time validation & feedback messages
 
 ## 🛠️ Technologies Used
-HTML5
+- HTML5
 CSS3
 JavaScript (Vanilla)
 
 ## 🤝 Contributing
 
 Pull requests are welcome!
-If you find issues, you can just open the Issues tab.
+If you encounter any issues, you can simply open the Issues tab.
 
 📄 License
 
