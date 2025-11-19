@@ -21,7 +21,7 @@ Built using HTML, CSS, and JavaScript — beginner-friendly and great for learni
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-JavaScript (Vanilla)
+- JavaScript (Vanilla)
 
 ## 🤝 Contributing
 
