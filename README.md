@@ -17,7 +17,7 @@ Built using HTML, CSS, and JavaScript — beginner-friendly and great for learni
 ## ✨ Features
 - ➕ Add marks (0–100)
 - 🗑️ Delete individual marks
-- 🔄 Clear all mark
+- 🔄 Clear all marks
 - 🧮 Dynamic rendering using JavaScript
 - ⚡ Real-time validation & feedback messages
 
