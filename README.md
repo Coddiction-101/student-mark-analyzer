@@ -1,6 +1,6 @@
 # 📘 Student Mark Analyzer
 
-A simple, clean web app that allows users to add, view, delete, and clear student marks.
+A simple, clean web app that allows users to add, view, delete, and clear student marks
 Built using HTML, CSS, and JavaScript — beginner-friendly and great for learning arrays + DOM manipulation.
 
 ---
