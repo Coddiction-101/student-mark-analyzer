@@ -29,7 +29,7 @@ Built using HTML, CSS, and JavaScript — beginner-friendly and great for learni
 ## 🤝 Contributing
 
 Pull requests are welcome!
-If you encounter any issues, you can simply open the Issues tab.
+If you encounter any issues, you can open the Issues tab.
 --
  
 ## 📄 License
